@@ -1,7 +1,7 @@
 # Algorithms
 📝Explain and implement algorithms
 ___
-##What is an algorithm?
+## What is an algorithm?
 "Alexander S. Gillis"   </br>An algorithm is a procedure used for solving a problem or performing a computation. Algorithms act as an exact list of instructions that conduct specified actions step by step in either hardware- or software-based routines.
 
 ## Algorithms by Topic
